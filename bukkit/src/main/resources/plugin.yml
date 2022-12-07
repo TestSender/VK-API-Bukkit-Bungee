@@ -1,0 +1,4 @@
+name: VK-API
+author: Ubivashka
+main: com.ubivashka.vk.bukkit.BukkitVkApiPlugin
+version: ${project.version}
